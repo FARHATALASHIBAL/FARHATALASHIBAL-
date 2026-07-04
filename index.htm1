@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>مركز فرحة الأشبال للترفيه</title>
+
+<style>
+body{
+font-family:Tahoma,sans-serif;
+margin:0;
+background:#f8f8f8;
+text-align:center;
+}
+header{
+background:#ff9800;
+color:#fff;
+padding:40px;
+}
+section{
+padding:40px 20px;
+}
+.button{
+display:inline-block;
+padding:15px 30px;
+background:#4CAF50;
+color:white;
+text-decoration:none;
+border-radius:10px;
+font-size:18px;
+}
+footer{
+background:#222;
+color:#fff;
+padding:20px;
+margin-top:30px;
+}
+</style>
+
+</head>
+
+<body>
+
+<header>
+<h1>🎉 مركز فرحة الأشبال للترفيه 🎉</h1>
+<p>عالم من المرح واللعب والاحتفال للأطفال</p>
+<a class="button" href="#">احجز الآن</a>
+</header>
+
+<section>
+<h2>أهلاً بكم</h2>
+<p>
+نوفر ألعاب أطفال، حفلات أعياد ميلاد، فعاليات، ومنطقة ترفيه آمنة وممتعة لجميع الأعمار.
+</p>
+</section>
+
+<footer>
+جميع الحقوق محفوظة © مركز فرحة الأشبال
+</footer>
+
+</body>
